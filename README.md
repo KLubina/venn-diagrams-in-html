@@ -10,15 +10,15 @@ This repository contains different representations of Venn diagrams using HTML a
 ## Included Diagrams
 ### Circular Venn Diagram
 This diagram represents three overlapping sets in a circular layout.
-![Circular Venn Diagram](VennDiagramm.png)
+![Circular Venn Diagram](pictures-for-readme/VennDiagramm.png)
 
 ### Venn Diagram for Application and Platform Development
 This diagram categorizes different modules into platform development, application development, and common modules.
-![Venn Diagram for Application and Platform Development](VennDiagramm-Appli-und-Platti.png)
+![Venn Diagram for Application and Platform Development](pictures-for-readme/VennDiagramm-Appli-und-Platti.png)
 
 ### Rectangular Venn Diagram
 A variation of the Venn diagram using rectangles instead of circles.
-![Rectangular Venn Diagram](VennDiagrammRectangle.png)
+![Rectangular Venn Diagram](pictures-for-readme/VennDiagrammRectangle.png)
 
 ## How to Use
 Simply open any of the provided HTML files in a web browser to view the visualizations.
